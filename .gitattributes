@@ -1,0 +1,1 @@
+src-tauri/gen/apple/Externals/x86_64-apple-ios/debug/libapp.a filter=lfs diff=lfs merge=lfs -text
